@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "You're My Heart, You're My Soul",
+  "base_artist": "Modern Talking",
+  "createdAt": "2025-12-19T19:00:16.506431Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You're My Heart You're My Soul",
+      "artist": "Modern Talking",
+      "has_synced": false,
+      "path": "select/01_You're_My_Heart_You're_My_Soul_Modern_Talking.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You’re My Heart, You’re My Soul",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/02_You’re_My_Heart,_You’re_My_Soul_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You're My Heart You're My Soul",
+      "artist": "Soraya",
+      "has_synced": true,
+      "path": "select/03_You're_My_Heart_You're_My_Soul_Soraya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You're My Heart, You're My Soul",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/04_You're_My_Heart,_You're_My_Soul_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Youre My Heart Youre My Soul",
+      "artist": "Verschiedene",
+      "has_synced": false,
+      "path": "select/05_Youre_My_Heart_Youre_My_Soul_Verschiedene.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You're My Heart, You're My Soul",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/06_You're_My_Heart,_You're_My_Soul_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You're My Heart, You're My Soul (Remastered)",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/07_You're_My_Heart,_You're_My_Soul_(Remastered)_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You’re My Heart, You’re My Soul",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/08_You’re_My_Heart,_You’re_My_Soul_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You’re My Heart, You’re My Soul",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/09_You’re_My_Heart,_You’re_My_Soul_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You’re My Heart, You’re My Soul '98",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/10_You’re_My_Heart,_You’re_My_Soul_'98_Modern_Talking.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "You're My Heart, You're My Soul",
+      "artist": "Modern Talking",
+      "has_synced": false,
+      "path": "select/pl_01_You're_My_Heart,_You're_My_Soul_Modern_Talking.txt"
+    }
+  ]
+}
